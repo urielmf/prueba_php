@@ -11,6 +11,7 @@
 <body style="padding: 30px;background-color: #f2f2f2; ">
     <div class="container" style="background-color: white; padding:20px; border-radius: 5px;">
         <h1 style="text-align: center;">Interes calculado</h1>
+        <h2 style="text-align: right;">Uriel Martínez Flores</h2>
 
         <?php
         function fechaEs($fecha)

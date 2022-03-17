@@ -12,6 +12,7 @@
     <div class="container" style="background-color: white; padding:20px; border-radius: 10px;">
 
         <h1 style="text-align: center;">Arreglos</h1>
+        <h2 style="text-align: right;">Uriel Martínez Flores</h2>
         <?php
         $totaldias = 0;
         $numberdaysofm = "";
